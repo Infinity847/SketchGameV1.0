@@ -1,0 +1,11 @@
+body {
+    background-color:rgb(165, 245, 128);
+}
+#Timer {
+    float:right;
+    margin:right;
+}
+#Score {
+    float:left;
+    margin:left;
+}
